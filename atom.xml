@@ -2,14 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lshywwl.github.io</id>
     <title>Gridea</title>
-    <updated>2021-11-24T01:53:36.203Z</updated>
+    <updated>2022-01-14T09:04:39.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lshywwl.github.io"/>
     <link rel="self" href="https://lshywwl.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://lshywwl.github.io/images/avatar.png</logo>
     <icon>https://lshywwl.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[小试牛刀]]></title>
+        <id>https://lshywwl.github.io/post/xiao-shi-niu-dao/</id>
+        <link href="https://lshywwl.github.io/post/xiao-shi-niu-dao/">
+        </link>
+        <updated>2022-01-14T09:04:15.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="一级标题">一级标题</h1>
+<h2 id="二级标题">二级标题</h2>
+<h2 id="三级标题">三级标题</h2>
+<h4 id="四级标题">四级标题</h4>
+<p><em>斜体文本</em></p>
+<p><strong>粗体文本</strong></p>
+<p><em><strong>粗斜体文本</strong></em></p>
+<hr>
+<p><code>~~删除线~~</code></p>
+<p><s>删除线</s></p>
+<p><u>下划线</u></p>
+<p>创建脚注<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p>
+<ul>
+<li>第一条</li>
+<li>第二条</li>
+</ul>
+<ol>
+<li>第一项
+<ul>
+<li>嵌套</li>
+</ul>
+</li>
+<li>第二项
+<ul>
+<li>嵌套</li>
+</ul>
+</li>
+</ol>
+<blockquote>
+<p>最外层</p>
+<blockquote>
+<p>第一层嵌套</p>
+<blockquote>
+<p>第二层嵌套</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<p><code>printf()</code></p>
+<pre><code class="language-java">if you != 1
+    printf(&quot;you are shabi&quot;)
+</code></pre>
+<p>​</p>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>你是菜鸟 <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第一个博客]]></title>
         <id>https://lshywwl.github.io/post/di-yi-ge-bo-ke/</id>
