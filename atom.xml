@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lshywwl.github.io</id>
     <title>Gridea</title>
-    <updated>2022-02-18T07:53:54.955Z</updated>
+    <updated>2022-02-18T08:06:30.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lshywwl.github.io"/>
     <link rel="self" href="https://lshywwl.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://lshywwl.github.io/images/avatar.png</logo>
     <icon>https://lshywwl.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://lshywwl.github.io/post/ce-shi/</id>
+        <link href="https://lshywwl.github.io/post/ce-shi/">
+        </link>
+        <updated>2022-02-18T08:06:13.000Z</updated>
+        <content type="html"><![CDATA[<p>1</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小试牛刀]]></title>
         <id>https://lshywwl.github.io/post/xiao-shi-niu-dao/</id>
